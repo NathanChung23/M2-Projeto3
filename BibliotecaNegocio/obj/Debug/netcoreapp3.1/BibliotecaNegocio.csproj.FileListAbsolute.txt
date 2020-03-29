@@ -1,0 +1,11 @@
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\bin\Debug\netcoreapp3.1\BibliotecaNegocio.deps.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\bin\Debug\netcoreapp3.1\BibliotecaNegocio.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\bin\Debug\netcoreapp3.1\BibliotecaNegocio.pdb
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.csprojAssemblyReference.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.AssemblyInfo.cs
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.csproj.CopyComplete
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\BibliotecaNegocio\obj\Debug\netcoreapp3.1\BibliotecaNegocio.pdb

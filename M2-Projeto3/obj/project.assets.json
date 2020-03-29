@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BibliotecaNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BibliotecaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaNegocio.dll": {}
+        }
+      },
+      "Dado/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dado.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dado.dll": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaNegocio/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaNegocio/BibliotecaNegocio.csproj",
+      "msbuildProject": "../BibliotecaNegocio/BibliotecaNegocio.csproj"
+    },
+    "Dado/1.0.0": {
+      "type": "project",
+      "path": "../Dado/Dado.csproj",
+      "msbuildProject": "../Dado/Dado.csproj"
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "path": "../Interface/Interface.csproj",
+      "msbuildProject": "../Interface/Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BibliotecaNegocio >= 1.0.0",
+      "Dado >= 1.0.0",
+      "Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nathan Chung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\M2-Projeto3\\M2-Projeto3.csproj",
+      "projectName": "M2-Projeto3",
+      "projectPath": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\M2-Projeto3\\M2-Projeto3.csproj",
+      "packagesPath": "C:\\Users\\Nathan Chung\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\M2-Projeto3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nathan Chung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\BibliotecaNegocio\\BibliotecaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\BibliotecaNegocio\\BibliotecaNegocio.csproj"
+            },
+            "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\Dado\\Dado.csproj": {
+              "projectPath": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\Dado\\Dado.csproj"
+            },
+            "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\Interface\\Interface.csproj": {
+              "projectPath": "C:\\Users\\Nathan Chung\\Desktop\\Lets_exercicios\\M2-Projeto3\\Interface\\Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

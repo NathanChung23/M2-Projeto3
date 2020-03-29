@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>M2_Projeto3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaNegocio\BibliotecaNegocio.csproj" />
+    <ProjectReference Include="..\Dado\Dado.csproj" />
+    <ProjectReference Include="..\Interface\Interface.csproj" />
+  </ItemGroup>
+
+</Project>

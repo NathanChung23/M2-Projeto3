@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M2-Projeto3/1.0.0": {
+        "dependencies": {
+          "BibliotecaNegocio": "1.0.0",
+          "Dado": "1.0.0",
+          "Interface": "1.0.0"
+        },
+        "runtime": {
+          "M2-Projeto3.dll": {}
+        }
+      },
+      "BibliotecaNegocio/1.0.0": {
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "runtime": {
+          "BibliotecaNegocio.dll": {}
+        }
+      },
+      "Dado/1.0.0": {
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "runtime": {
+          "Dado.dll": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "runtime": {
+          "Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M2-Projeto3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

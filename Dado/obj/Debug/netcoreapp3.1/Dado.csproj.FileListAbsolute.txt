@@ -1,0 +1,11 @@
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\bin\Debug\netcoreapp3.1\Dado.deps.json
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\bin\Debug\netcoreapp3.1\Dado.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\bin\Debug\netcoreapp3.1\Dado.pdb
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.csprojAssemblyReference.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfoInputs.cache
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.AssemblyInfo.cs
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.csproj.CopyComplete
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.dll
+C:\Users\Nathan Chung\Desktop\Lets_exercicios\M2-Projeto3\Dado\obj\Debug\netcoreapp3.1\Dado.pdb
